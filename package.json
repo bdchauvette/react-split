@@ -1,6 +1,6 @@
 {
   "name": "@squib/react-split",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Text splitting components for React",
   "author": "Ben Chauvette <bdchauvette@gmail.com>",
   "license": "0BSD",
